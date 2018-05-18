@@ -1,1 +1,1 @@
-A front-end project template with React and TypeScript.
+A boilerplate for single page app using React and TypeScript.
